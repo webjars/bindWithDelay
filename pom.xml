@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bindWithDelay</artifactId>
-    <version>2cafbf717c</version>
+    <version>2cafbf718c-SNAPSHOT</version>
     <name>WEBJAR_NAME</name>
     <description>WebJar for WEBJAR_NAME</description>
     <url>http://webjars.org</url>
@@ -54,7 +54,7 @@
         <url>http://github.com/webjars/bindWithDelay</url>
         <connection>scm:git:https://github.com/webjars/bindWithDelay.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bindWithDelay.git</developerConnection>
-        <tag>bindWithDelay-2cafbf717c</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
